@@ -1,0 +1,145 @@
+/* estilo do cabeçalho */
+.navbar {
+  background-color: #5587b9;
+}
+.navbar-brand {
+  font-weight: bold;
+  color: #ffffff;
+}
+.navbar-toggler {
+  border-color: #fff;
+}
+.navbar-toggler-icon {
+  background-color: #fff;
+}
+.navbar-nav .nav-item .nav-link {
+  color: #ffffff;
+}
+
+/* estilo da seção "sobre mim" */
+.about-section {
+  padding: 100px 0;
+  background-color: #74baff91;
+}
+.about-section h2 {
+  font-size: 40px;
+  font-weight: bold;
+  color: #000000;
+}
+.about-section p {
+  font-size: 18px;
+  line-height: 1.5;
+  color: #000000;
+}
+
+/* estilo da seção "experiência profissional" */
+.experience-section {
+  padding: 100px 0;
+}
+.experience-section h2 {
+  font-size: 40px;
+  font-weight: bold;
+  color: #000;
+}
+.experience-item {
+  margin-bottom: 50px;
+}
+.experience-title {
+  font-size: 24px;
+  font-weight: bold;
+  color: #000;
+}
+.experience-subtitle {
+  font-size: 18px;
+  font-weight: bold;
+  color: #6c757d;
+}
+.experience-date {
+  font-size: 14px;
+  color: #000000;
+  margin-bottom: 10px;
+}
+.experience-description {
+  font-size: 18px;
+  color: #000000;
+  line-height: 1.5;
+}
+
+/* estilo da seção "educação" */
+.education-section {
+  padding: 100px 0;
+  background-color: #74baff91;
+}
+.education-section h2 {
+  font-size: 40px;
+  font-weight: bold;
+  color: #000;
+}
+.education-item {
+  margin-bottom: 50px;
+}
+.education-title {
+  font-size: 24px;
+  font-weight: bold;
+  color: #000;
+}
+.education-subtitle {
+  font-size: 18px;
+  font-weight: bold;
+  color: #000000;
+}
+.education-date {
+  font-size: 14px;
+  color: #000000;
+  margin-bottom: 10px;
+}
+.education-description {
+  font-size: 18px;
+  color: #000000;
+  line-height: 1.5;
+}
+
+/* estilo da seção "portfólio" */
+.portfolio-section {
+  padding: 100px 0;
+}
+.portfolio-section h2 {
+  font-size: 40px;
+  font-weight: bold;
+  color: #000;
+}
+.portfolio-item {
+  margin-bottom: 50px;
+}
+.portfolio-image {
+  overflow: hidden;
+  border-radius: 10px;
+}
+.portfolio-image img {
+  width: 100%;
+  height: auto;
+}
+.portfolio-title {
+  font-size: 24px;
+  font-weight: bold;
+  color: #000;
+}
+.portfolio-description {
+  font-size: 18px;
+  color: #6c757d;
+  line-height: 1.5;
+}
+
+.img-circle {
+  border-radius: 50%;
+}
+#contact{
+ background-color: #74baff91;
+}
+.footer{
+    background-color: #5587b9;
+}
+.foot a{
+    color: #050607;
+}
+
